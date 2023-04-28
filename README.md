@@ -4,17 +4,15 @@
 
 ## Hola caracola! 👋
 
-<div align="center"> 🚀 Welcome to my house :japanese_castle:</div>
+<div align="center"> 🚀 Bienvenido a mi perfil :japanese_castle:</div>
 
 ---
-### :volcano: Funny Joke
+### :volcano: Estudiante de DAM
 
-> "Have you heard about the object-oriented way to become wealthy?"
->> "No..."
->>> "Inheritance!"
+> "Me gusta programar :)"
 
-> "Why all Pascal programmers ask to live in Atlantis?"
->> "Because it is below C level."
+> "Java Developer"
+
 
 ![peepo](https://i.pinimg.com/originals/95/5a/bd/955abdcc338680a95cbfb861a89ccd02.png)
 ---
