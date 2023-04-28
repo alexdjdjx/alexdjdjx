@@ -3,9 +3,9 @@
 <img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" alt="NyanCat">
 
 
-## Hi Developer! 👋
+## Hi Visitor! 👋
 
-<div align="center"> 🚀 Bienvenido a mi perfil :japanese_castle:</div>
+<div align="center"> 🚀 Welcome to my profile :japanese_castle:</div>
 
 ---
 ### :volcano: DAM student 
