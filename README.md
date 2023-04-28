@@ -16,5 +16,5 @@
 > "Why all Pascal programmers ask to live in Atlantis?"
 >> "Because it is below C level."
 
-<img src="[https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1](https://i.pinimg.com/originals/95/5a/bd/955abdcc338680a95cbfb861a89ccd02.png)" alt="NyanCat">
+https://i.pinimg.com/originals/95/5a/bd/955abdcc338680a95cbfb861a89ccd02.png
 ---
