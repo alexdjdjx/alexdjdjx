@@ -40,5 +40,5 @@ Thanks for stopping by my GitHub profile, and I look forward to connecting with 
 
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=alexdjdjx%2Falexdjdjx&countColor=%23ff8a65&style=plastic)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=alexdjdjx%2Falexdjdjx&countColor=%23ba68c8)](https://visitorbadge.io/status?path=alexdjdjx%2Falexdjdjx)
 
