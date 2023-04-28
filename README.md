@@ -40,5 +40,5 @@ Thanks for stopping by my GitHub profile, and I look forward to connecting with 
 
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alexdjdjx.alexdjdjx&left_color=green&right_color=red)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=alexdjdjx%2Falexdjdjx&countColor=%23ff8a65&style=plastic)](https://visitorbadge.io/status?path=alexdjdjx%2Falexdjdjx)
 
