@@ -10,8 +10,7 @@
 ### :volcano: Estudiante de DAM
 
 > "Me gusta programar :)"
-
-> "Java Developer"
+>> "Java Developer"
 
 
 ![peepo](https://i.pinimg.com/originals/95/5a/bd/955abdcc338680a95cbfb861a89ccd02.png)
